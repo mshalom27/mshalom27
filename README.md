@@ -1,9 +1,8 @@
 # Hi there, I'm Shalom! 🙌
 
-## About Me
-- ✨ Aspiring Fullstack developer  
-- 🔎 Currently exploring Backend  
-- 🚀 Learning Node.js and Express.js  
+✨ Aspiring Fullstack developer  
+🔎 Currently exploring Backend  
+🚀 Learning Node.js and Express.js  
 
 ---
 
