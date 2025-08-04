@@ -1,8 +1,10 @@
 # Hi there, I'm Shalom! 🙌
 
-✨ **Aspiring Fullstack Developer**  
-🔎 **Currently learning Backend**  
-🚀 **Exploring AI / ML**
+✨ **Fullstack Developer**
+🛠️ **Experienced with MERN Stack & Next.js**
+🚀 **Currently exploring AI/ML & Agentic AI**
+
+
 
 ---
 
